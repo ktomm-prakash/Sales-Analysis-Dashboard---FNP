@@ -52,7 +52,7 @@ It delivers insights into sales performance, customer behavior, and product dema
 ---
 
 ## Dashboard Preview
-Show what the dashboard looks like. - ![Dashboard Preview](Screenshot 2025-08-15 160825.png)
+Show what the dashboard looks like. - ![Dashboard Preview](https://github.com/ktomm-prakash/Sales-Analysis-Dashboard---FNP/blob/main/Screenshot%202025-08-15%20160825.png)
 
 ---
 
