@@ -52,7 +52,7 @@ It delivers insights into sales performance, customer behavior, and product dema
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](Screenshot 2025-08-15 160825.png)
+Show what the dashboard looks like. - ![Dashboard Preview](Screenshot 2025-08-15 160825.png)
 
 ---
 
